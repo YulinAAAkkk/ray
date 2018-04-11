@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rayUtils:jar">
+    <output-path>$PROJECT_DIR$/../rayUtils/out/artifacts/rayUtils_jar</output-path>
+    <root id="archive" name="rayUtils.jar">
+      <element id="module-output" name="rayUtils" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../rayUtils/lib/pinyin4j-2.5.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
